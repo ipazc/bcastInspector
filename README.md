@@ -2,7 +2,8 @@
 This broadcast messages inspector is intended to be a network watchdog and to make alarms when broadcast storms are alive.
 
 # Compilation
-Follow the following steps to i
+
+Follow the following steps in order to compile:
 ```bash
 $ mkdir build && cd build
 $ cmake ..
